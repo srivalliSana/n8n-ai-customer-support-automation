@@ -41,3 +41,5 @@ The workflow reduces manual email handling while ensuring contextual and accurat
 
 ## Disclaimer
 This workflow is intended for learning and prototyping purposes. Production usage may require additional validation, monitoring, and human review.
+<img width="1539" height="916" alt="image" src="https://github.com/user-attachments/assets/2fed62ce-98d5-4aba-bf6d-080ef92b63f8" />
+
